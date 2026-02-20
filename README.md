@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/placeholder.png" width="700" />
+  <img src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif" width="300" />
+  <img src="https://media1.tenor.com/m/L2iMH_Thu9gAAAAC/lain-serial-experiments-lain.gif" width="300" />
 </p>
 
 > **⚠ Aviso:** Selfbots violam os Termos de Serviço do Discord e podem resultar em banimento da conta. Use por sua conta e risco.
@@ -157,6 +158,7 @@ MIT — use como quiser.
 ---
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/G9wtd4WhwXIAAAAC/lain-computer.gif" width="200" /><br>
   feito com mass preguiça por <b>epy</b><br>
   <a href="https://github.com/burrice">github.com/burrice</a>
 </p>
